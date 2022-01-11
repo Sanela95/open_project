@@ -1,2 +1,2 @@
-print("payton fajl")
+print("payton")
 print(5*8)
